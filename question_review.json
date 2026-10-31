@@ -1,0 +1,1728 @@
+[
+  {
+    "subject": "Chemistry",
+    "question": "What is the of a solution with a pH of 4?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Chemistry Model 2016",
+    "question_number": 25,
+    "answer_key_source": "Arada Answer Chemistry 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which one of the following salts is not an acidic salt?",
+    "choices": [
+      "KH",
+      "H",
+      "",
+      "Mg"
+    ],
+    "source": "Arada Chemistry Model 2016",
+    "question_number": 26,
+    "answer_key_source": "Arada Answer Chemistry 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "During the electrolysis of molten lead bromide using graphite electrodes, the anode reaction is",
+    "choices": [
+      "2 +",
+      "",
+      "+ 2",
+      ""
+    ],
+    "source": "Arada Chemistry Model 2016",
+    "question_number": 27,
+    "answer_key_source": "Arada Answer Chemistry 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which one of the following is an example of ionic compounds?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Chemistry Model 2016",
+    "question_number": 38,
+    "answer_key_source": "Arada Answer Chemistry 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "What is the half-life, t , for a zero order reaction: A → B, (k is rate constant)? ½",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Chemistry Model 2016",
+    "question_number": 43,
+    "answer_key_source": "Arada Answer Chemistry 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "What is the general formula of saturated monocarboxylic acids",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Chemistry Model 2016",
+    "question_number": 46,
+    "answer_key_source": "Arada Answer Chemistry 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which one of the following is not an amphiprotic species?",
+    "choices": [
+      "HP",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Chemistry Model 2016",
+    "question_number": 49,
+    "answer_key_source": "Arada Answer Chemistry 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "What is the pH of a 0.01M weak base, B solution? Kb = 1.6",
+    "choices": [
+      "",
+      "5.6",
+      "",
+      "6"
+    ],
+    "source": "Arada Chemistry Model 2016",
+    "question_number": 51,
+    "answer_key_source": "Arada Answer Chemistry 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The concentration of hydroxide in a solution in which the concentration of hydroxide ion is 100 times hydronium ion at is",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Chemistry Model 2016",
+    "question_number": 52,
+    "answer_key_source": "Arada Answer Chemistry 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The PH of 0.1M solution of weak acid is 3.0. What is the value of the ionization constant for the acid?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Chemistry Model 2016",
+    "question_number": 53,
+    "answer_key_source": "Arada Answer Chemistry 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The species that being reduced and causes oxidation is a/an",
+    "choices": [
+      "Reduction",
+      "Reducing agent",
+      "Oxidation",
+      "Oxidizing agent"
+    ],
+    "source": "Arada Chemistry Model 2016",
+    "question_number": 60,
+    "answer_key_source": "Arada Answer Chemistry 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "answer_key_missing"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which substances is reduced in the following reaction + 6 +  2 + + 7H O 2",
+    "choices": [
+      "H+",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Chemistry Model 2016",
+    "question_number": 61,
+    "answer_key_source": "Arada Answer Chemistry 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Among the following compounds which one is a by-product in Solvay process during the production of ?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Chemistry Model 2016",
+    "question_number": 73,
+    "answer_key_source": "Arada Answer Chemistry 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Chemistry",
+    "question": "The major composition of cement is",
+    "choices": [
+      "",
+      "CaO",
+      "",
+      ""
+    ],
+    "source": "Arada Chemistry Model 2016",
+    "question_number": 76,
+    "answer_key_source": "Arada Answer Chemistry 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "English",
+    "question": "……. to pay for their academic pursuits. Their refers:_______",
+    "choices": [
+      "Our country",
+      "Young students",
+      "some jobs",
+      "to commit crime"
+    ],
+    "source": "Arada English Model 2016",
+    "question_number": 15,
+    "answer_key_source": "Arada Answer English 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "answer_key_missing"
+  },
+  {
+    "subject": "English",
+    "question": "Neither the singers nor the conductor ____________ ready to step on the stage. They completely seem lost",
+    "choices": [
+      "is",
+      "was",
+      "were",
+      "are"
+    ],
+    "source": "Arada English Model 2016",
+    "question_number": 41,
+    "answer_key_source": "Arada Answer English 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "answer_key_missing"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If and are composite natural numbers and is a prime number, then which one of the following is never true?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 1,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The simplified form of the expression is",
+    "choices": [
+      "",
+      "",
+      "",
+      "5"
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 2,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "To rationalize the denominator which one of the following expression is used as the rationalizing factor?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 3,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "What is the value of ?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 4,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Which one of the following systems of linear equation has infinitely many solutions?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 5,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "What is the solution set of the inequality ?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 6,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The solution set of the inequality is",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 7,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "For any two non-empty sets A and",
+    "choices": [
+      "B",
+      "If then which one of the following is always true?",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 8,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If . Then, which one of the following points is on the graph of ?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 11,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If a right angle triangle right at such that , then which one of the following is Not true?",
+    "choices": [
+      "",
+      "",
+      "The area of is",
+      "The ratio of is necessarily"
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 13,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If the angle of a sector at the center of a circle is with radius . Then, what is the area of the sector?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 14,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If a regular polygon is inscribed in a circle of radius , then what is the area of the polygon in ?",
+    "choices": [
+      "32",
+      "",
+      "8",
+      ""
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 16,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Suppose the mid-point of a line segment is . If one end point of the segment is , then what is the coordinate of the other end-point?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 19,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The equation of an ellipse with center at and vertices at and is",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 21,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Let a sample space be . Which of the following assignment of probabilities to each outcome are valid? Assignment P Q R S T",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 24,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Given the data x 2 3 4 6 Then, what is the mean deviation about the mode of the data set? f 5 4 2 1",
+    "choices": [
+      "1",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 25,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Let ABCD is a parallelogram and be diagonals, then which one of the following is Not true?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 32,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "When is divided by , the remainder is 7. Then, what is the value of k?",
+    "choices": [
+      "",
+      "",
+      "",
+      "2"
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 33,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Which of the following is the solution set of the equation ?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 36,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If the angle of elevation of the top of the mountain from the top of the building is and the angle of elevation of the top a mountain from the bottom of a building 105m high is and the distance between the bases of the building is 40m. Then, what is the height of the mountain and the distance between from the top of the building to the top of the mountain respectively?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 38,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "For any real number which one of the following statement is true?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 40,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "For What value(s) of k does has a unique solution?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 42,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Let Z be a complex number and . Then, which one of the following is Not true?",
+    "choices": [
+      "",
+      "If",
+      "If",
+      "If it is multiplicative inverse is"
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 43,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If the translation T takes the point to the point . Then, what is the image of the circle under the translation T?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 44,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "What is the amplitude and period of the graph of ?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 45,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A patrol on a sea sailed from it’s station to the south and changed it’s course and sailed 7km in the direction of North-west. Then, what is the shortest(straight) distance the boat should travel in order to return to its station?",
+    "choices": [
+      "",
+      "",
+      "",
+      "6 | P a ge"
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 46,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Which one of the following is the fourth term of the sequence ?",
+    "choices": [
+      "0",
+      "1",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 47,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If there are 8 arithmetic means between being the first term. Then, what is the common difference?",
+    "choices": [
+      "",
+      "",
+      "",
+      "3"
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 48,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If the second and sixth terms of a geometric progression are respectively, then what is the sum of the first eight terms 0f the sequence?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 49,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Which one of the following series is convergent?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 53,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "In which interval that the graph of the function is increasing ?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 55,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The radius of a spherical gas balloon is increasing at a rate of . At what rate it’s surface area increasing when the radius is ?",
+    "choices": [
+      "",
+      "",
+      "",
+      "7 | P a ge"
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 56,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "What is the area of the region bounded by the graph of and the x-axis from in square units?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 60,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The solution set of the system of inequalities is",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 62,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A manufacturer produces two types of nails, . It takes of work on machine and on machine to produce a package of . It takes of work on machine and on machine to produce a package of . He earns a profit of Birr per package on and Birr per package on . How many packages of respectively should be each day so as to maximize his profit, if he operates his machines for at most ?",
+    "choices": [
+      "",
+      "",
+      "",
+      "9 | P a ge"
+    ],
+    "source": "Arada Mathematics Natural Model 2016",
+    "question_number": 65,
+    "answer_key_source": "Arada Answer Maths Nat 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "For any real numbers , which of the following is not correct expression?",
+    "choices": [
+      "",
+      "( )",
+      "( )",
+      "/"
+    ],
+    "source": "Arada Mathematics Social Model 2016",
+    "question_number": 2,
+    "answer_key_source": "Arada Ans Maths Social 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The rationalization factor of is √ √ √ √ √",
+    "choices": [
+      "",
+      "",
+      "",
+      "√ √ √ √"
+    ],
+    "source": "Arada Mathematics Social Model 2016",
+    "question_number": 3,
+    "answer_key_source": "Arada Ans Maths Social 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "What is the value of if ?",
+    "choices": [
+      "2",
+      "",
+      "",
+      "2"
+    ],
+    "source": "Arada Mathematics Social Model 2016",
+    "question_number": 4,
+    "answer_key_source": "Arada Ans Maths Social 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If A and B are any two sets such that , then which one of the following is correct?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Social Model 2016",
+    "question_number": 6,
+    "answer_key_source": "Arada Ans Maths Social 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If is congruent with such that ( ) ( ) ( ) , then what is the value of ?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Social Model 2016",
+    "question_number": 9,
+    "answer_key_source": "Arada Ans Maths Social 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A ladder leans against a wall of height and makes an angle of with the ground. What is the length of the ladder? √ √",
+    "choices": [
+      "",
+      "√",
+      "",
+      "√"
+    ],
+    "source": "Arada Mathematics Social Model 2016",
+    "question_number": 10,
+    "answer_key_source": "Arada Ans Maths Social 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "What is the lateral surface area of a right circular cylinder of radius and height of 12cm?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Social Model 2016",
+    "question_number": 11,
+    "answer_key_source": "Arada Ans Maths Social 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If the mean of the data , then what will be the mean of ?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Social Model 2016",
+    "question_number": 12,
+    "answer_key_source": "Arada Ans Maths Social 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A car travels to the North and then √ to the East. What is the displacement of the car?",
+    "choices": [
+      "( √ )",
+      "",
+      "√",
+      "√"
+    ],
+    "source": "Arada Mathematics Social Model 2016",
+    "question_number": 13,
+    "answer_key_source": "Arada Ans Maths Social 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "From the top of a building, the angle of depression of a point on the ground away from the base of the building is . What is the height of the building? √ √",
+    "choices": [
+      "√",
+      "√",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Social Model 2016",
+    "question_number": 22,
+    "answer_key_source": "Arada Ans Maths Social 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The perimeter of a regular hexagon with radius is",
+    "choices": [
+      "",
+      "√",
+      "",
+      "√"
+    ],
+    "source": "Arada Mathematics Social Model 2016",
+    "question_number": 24,
+    "answer_key_source": "Arada Ans Maths Social 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The altitude and base radius of a right circular cone is respectively. What is the slant height of the cone?",
+    "choices": [
+      "√",
+      "√",
+      "√",
+      ""
+    ],
+    "source": "Arada Mathematics Social Model 2016",
+    "question_number": 25,
+    "answer_key_source": "Arada Ans Maths Social 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The area of the base of a pyramid is and its altitude is . What is the area of the horizontal cross-section from the vertex?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Mathematics Social Model 2016",
+    "question_number": 26,
+    "answer_key_source": "Arada Ans Maths Social 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "English",
+    "question": "SINCERE",
+    "choices": [
+      "dishonest",
+      "dissent",
+      "genuine",
+      "disapprove"
+    ],
+    "source": "Arada Aptitude Model 2016",
+    "question_number": 12,
+    "answer_key_source": "Arada Answer SAT 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A fair 12−𝑓𝑎𝑐𝑒𝑑 die with faces numbered 1 𝑡𝑜 12 is to be rolled once. Then, what is the probability of rolling a number that is Not prime? 7 1 5 3",
+    "choices": [
+      "",
+      "",
+      "",
+      "12 2 6 4"
+    ],
+    "source": "Arada Aptitude Model 2016",
+    "question_number": 39,
+    "answer_key_source": "Arada Answer SAT 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Consider the following table. Quantity A Quantity B Then, which one of the following relation is true between A 411 +411+411 +411 88 and B?",
+    "choices": [
+      "Quantity A is less than Quantity",
+      "",
+      "Quantity B is less than quantity A. B. The relationship can Not be determined",
+      "The two quantities are equal"
+    ],
+    "source": "Arada Aptitude Model 2016",
+    "question_number": 43,
+    "answer_key_source": "Arada Answer SAT 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If 8𝑥−𝑦 = 64 𝑎𝑛𝑑 23𝑥+3𝑦 = 128, then x is equal to :- 1 13 4 11",
+    "choices": [
+      "",
+      "",
+      "",
+      "6 6 3 3"
+    ],
+    "source": "Arada Aptitude Model 2016",
+    "question_number": 49,
+    "answer_key_source": "Arada Answer SAT 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The number that is of 60 is what fraction of 80?",
+    "choices": [
+      "",
+      "",
+      "",
+      "3 6 3 2 4"
+    ],
+    "source": "Arada Aptitude Model 2016",
+    "question_number": 54,
+    "answer_key_source": "Arada Answer SAT 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "History",
+    "question": "What was the primary outcome of the Edict of Milan in 4th century",
+    "choices": [
+      "",
+      "It ordered the persecution of Christians to intensify",
+      "It declared Christianity as the only official religion of the Roman Empire D. It split the Christian Church into Roman Catholic and Greek Orthodox",
+      "? A. It granted religious toleration for Christians"
+    ],
+    "source": "Arada History Model 2016",
+    "question_number": 3,
+    "answer_key_source": "Arada Ans History 2016 April Model.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Geography",
+    "question": "Which contribution of the continental drift theory was most critical for developing plate tectonics?",
+    "choices": [
+      "Fossil distribution",
+      "Idea of horizontal crust mobility",
+      "Climate history insights",
+      ""
+    ],
+    "source": "Oromia Geography Model 2017",
+    "question_number": 111,
+    "answer_key_source": "Geography Answer - Oromia 2017 April.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "After rationalizing the denominator of the expression , what will be the simplified expression? 3 22 3 143 6 248 6 83 6 83 6",
+    "choices": [
+      "",
+      "",
+      "",
+      "2 6 2 2"
+    ],
+    "source": "Oromia Mathematics Model 2017",
+    "question_number": 4,
+    "answer_key_source": "Maths Answer - Oromia 2017 April.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Let A1, 2, 3,..., 20 . If a relation R from A to A is defined by R  x, y:3xy 0  where x,yA, then find the range ofR",
+    "choices": [
+      "1, 2, 3, 4, 5, 6",
+      "3, 6, 9,12,15,18",
+      "6, 9,12,15,18, 21",
+      ""
+    ],
+    "source": "Oromia Mathematics Model 2017",
+    "question_number": 16,
+    "answer_key_source": "Maths Answer - Oromia 2017 April.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The sum to nof the series   ....is equal to: 12 23 34 n1 1 n",
+    "choices": [
+      "",
+      "",
+      "",
+      "nn1 n nn1 n1"
+    ],
+    "source": "Oromia Mathematics Model 2017",
+    "question_number": 22,
+    "answer_key_source": "Maths Answer - Oromia 2017 April.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "What is the area (in square units) of the region bounded by the graph of y  x3and the xaxis between the lines x2andx1? 16 15 17",
+    "choices": [
+      "",
+      "",
+      "9",
+      "4 4 4"
+    ],
+    "source": "Oromia Mathematics Model 2017",
+    "question_number": 30,
+    "answer_key_source": "Maths Answer - Oromia 2017 April.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If f x x2 2x1, then f '2is equal to: 1 2",
+    "choices": [
+      "2",
+      "",
+      "",
+      "1 3 3"
+    ],
+    "source": "Oromia Mathematics Model 2017",
+    "question_number": 48,
+    "answer_key_source": "Maths Answer - Oromia 2017 April.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Which one of the following is the sum of infinite series0.330.00330.000033...? 33 2 33 1",
+    "choices": [
+      "",
+      "",
+      "",
+      "10n 3 10n1 3"
+    ],
+    "source": "Oromia Mathematics Model 2017",
+    "question_number": 49,
+    "answer_key_source": "Maths Answer - Oromia 2017 April.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A box contains 8 items of which 6 are defective. If three items are randomly selected out of the box, then what is the probability in which two will be defective and the other will be non- defective? 3 15 5 15",
+    "choices": [
+      "",
+      "",
+      "",
+      "14 56 56 28 0 1 1 2"
+    ],
+    "source": "Oromia Mathematics Model 2017",
+    "question_number": 50,
+    "answer_key_source": "Maths Answer - Oromia 2017 April.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If f x  x2and gx  , then f g is equal to:   x 4 1 1",
+    "choices": [
+      "2",
+      "",
+      "",
+      "4 4 2"
+    ],
+    "source": "Oromia Mathematics Model 2017",
+    "question_number": 53,
+    "answer_key_source": "Maths Answer - Oromia 2017 April.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Physics",
+    "question": "If two rods of length L and 2L having coefficients of linear expansion and 2 respectively are connected so that total length becomes 3L, the average coefficient of linear expansion of the composition rod equals",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Oromia Physics Model 2017",
+    "question_number": 25,
+    "answer_key_source": "Physics Answer - Oromia 2017 April.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Physics",
+    "question": "When ice melts into water at 0°C, what happens to the temperature of the system until all ice has converted to water?",
+    "choices": [
+      "The temperature increases continuously until it reaches 100°",
+      "The temperature decreases until all ice has melted. C. The temperature remains constant at 0°C despite the addition of heat",
+      "",
+      "The temperature fluctuates between 0°C and 5°C"
+    ],
+    "source": "Oromia Physics Model 2017",
+    "question_number": 26,
+    "answer_key_source": "Physics Answer - Oromia 2017 April.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Physics",
+    "question": "In projectile motion, which of the following is the correct relation between total time of flight (T) and maximum height (H)?",
+    "choices": [
+      "",
+      "",
+      "",
+      "OROMIA EDUCATIONAL BUREAU"
+    ],
+    "source": "Oromia Physics Model 2017",
+    "question_number": 41,
+    "answer_key_source": "Physics Answer - Oromia 2017 April.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Physics",
+    "question": "A projectile is launched with an initial velocity of 50 m/s at an angle of to the horizontal from the ground. Which of the equations below is appropriate to calculate the horizontal distance traveled by the projectile before it hits the ground?",
+    "choices": [
+      "",
+      "",
+      "",
+      "( ( ))"
+    ],
+    "source": "Oromia Physics Model 2017",
+    "question_number": 42,
+    "answer_key_source": "Physics Answer - Oromia 2017 April.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "If and , then which one of the following expression is equal to ?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Oromia Aptitude Model 2017",
+    "question_number": 42,
+    "answer_key_source": "SAT Answer - Oromia 2017 April.pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "English",
+    "question": "Hostile",
+    "choices": [
+      "Friendly",
+      "Angry",
+      "Aggressive",
+      "Calm"
+    ],
+    "source": "Arada Grade 12 Aptitude Model Exam 2018",
+    "question_number": 12,
+    "answer_key_source": "SAT grade 12 model exam answer key .pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "English",
+    "question": "Observe",
+    "choices": [
+      "Ignore",
+      "Notice",
+      "Forget",
+      "Avoid Antonyms Questions (14-17) DIRECTION: Question 14-17 consist of words written in bold letters followed by four words. Choose from the letters A, B, C, and D which hold the word most nearly opposite in meaning to the word written in bold letters and blacken the letter of your choice on the separate answerer sheet provided"
+    ],
+    "source": "Arada Grade 12 Aptitude Model Exam 2018",
+    "question_number": 13,
+    "answer_key_source": "SAT grade 12 model exam answer key .pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "English",
+    "question": "ABUNDANT",
+    "choices": [
+      "Plentiful",
+      "Ample",
+      "Scarce",
+      "Adequate"
+    ],
+    "source": "Arada Grade 12 Aptitude Model Exam 2018",
+    "question_number": 14,
+    "answer_key_source": "SAT grade 12 model exam answer key .pdf",
+    "status": "needs review",
+    "issue": "answer_key_missing"
+  },
+  {
+    "subject": "English",
+    "question": "CONCISE",
+    "choices": [
+      "Brief",
+      "Clear",
+      "Lengthy",
+      "Direct"
+    ],
+    "source": "Arada Grade 12 Aptitude Model Exam 2018",
+    "question_number": 15,
+    "answer_key_source": "SAT grade 12 model exam answer key .pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "English",
+    "question": "AMBIGUOUS",
+    "choices": [
+      "Confusing",
+      "Vague",
+      "Obscure",
+      "Explicit"
+    ],
+    "source": "Arada Grade 12 Aptitude Model Exam 2018",
+    "question_number": 16,
+    "answer_key_source": "SAT grade 12 model exam answer key .pdf",
+    "status": "needs review",
+    "issue": "answer_key_missing"
+  },
+  {
+    "subject": "English",
+    "question": "OPTIMISTIC",
+    "choices": [
+      "Pessimistic",
+      "Cheerful",
+      "Hopeful",
+      "Confident ARADA SUB CITY EDUCATION OFFICE SAT FOR GRADE 12 MODEL EXAM 2018 e.c Odd one out (Question 18-20) DIRECTION for the question 18 – 20: A set of four words is given. Three of the words are related in some way, the remaining word is not related to the rest. Pick the word which does not fit in the relation. Then blacken the letter of your choice on the separate answerer sheet provided I. Pick the odd one out"
+    ],
+    "source": "Arada Grade 12 Aptitude Model Exam 2018",
+    "question_number": 17,
+    "answer_key_source": "SAT grade 12 model exam answer key .pdf",
+    "status": "needs review",
+    "issue": "answer_key_missing"
+  },
+  {
+    "subject": "English",
+    "question": "If you study regularly, you ______ succeed",
+    "choices": [
+      "might",
+      "must",
+      "could",
+      "will"
+    ],
+    "source": "Arada Grade 12 Aptitude Model Exam 2018",
+    "question_number": 23,
+    "answer_key_source": "SAT grade 12 model exam answer key .pdf",
+    "status": "needs review",
+    "issue": "answer_key_missing"
+  },
+  {
+    "subject": "English",
+    "question": "The match was canceled ______ the heavy rain",
+    "choices": [
+      "because",
+      "because of",
+      "although",
+      "but"
+    ],
+    "source": "Arada Grade 12 Aptitude Model Exam 2018",
+    "question_number": 24,
+    "answer_key_source": "SAT grade 12 model exam answer key .pdf",
+    "status": "needs review",
+    "issue": "answer_key_missing"
+  },
+  {
+    "subject": "English",
+    "question": "We should respect people ______ opinions differ from ours",
+    "choices": [
+      "which",
+      "whose",
+      "who",
+      "whom ARADA SUB CITY EDUCATION OFFICE SAT FOR GRADE 12 MODEL EXAM 2018 e.c III. Reading Comprehensions Directions: Questions 26-29 are based on the two passages given below. Read the passages very carefully and then choose the best alternative based on the explicit and implicit messages they convey and blacken the letter of your choice in the space provided in the answer sheet Reading Passage Haddis Alemayehu: A Pioneer of Ethiopian Literature Haddis Alemayehu is one of Ethiopia’s most respected writers, widely known for his contribution to modern Ethiopian literature. Born in 1909, he was not only a novelist but also a diplomat and public servant. His life experiences in politics, education, and international relations greatly influenced his writing. Through his literary works, Haddis Alemayehu explored Ethiopian society with depth and realism. His most famous novel, Fikir Eske Mekabir (Love unto Grave), is considered a masterpiece of Amharic literature. The novel presents a tragic love story while also addressing social class differences, tradition, and injustice. The author skillfully portrays human emotions and moral conflicts, making the story both touching and thought- provoking. The novel remains widely read and studied in Ethiopian schools and universities. One of the strengths of Haddis Alemayehu’s writing is his profound understanding of Ethiopian culture and values. He used literature as a tool to criticize harmful traditions and to promote social awareness. His works reflect the struggles of ordinary people and challenge readers to think critically about society. This enduring relevance is one reason his writing continues to influence new generations. Beyond literature, Haddis Alemayehu served his country in various leadership roles, including as Ethiopia’s ambassador to the United States and the United Nations. His ability to combine artistic talent with public service made him a unique figure in Ethiopian history. Today, he is remembered not only as a great writer but also as a national intellectual whose ideas still inspire discussion and reflection. Source: Alemayehu, Haddis. Fikir Eske Mekabir (Love unto Grave). 1968"
+    ],
+    "source": "Arada Grade 12 Aptitude Model Exam 2018",
+    "question_number": 25,
+    "answer_key_source": "SAT grade 12 model exam answer key .pdf",
+    "status": "needs review",
+    "issue": "answer_key_missing"
+  },
+  {
+    "subject": "English",
+    "question": "The author mentions Haddis Alemayehu’s roles as a diplomat and public servant mainly to",
+    "choices": [
+      "Compare literature with politics",
+      "Show how his life experiences shaped his writing",
+      "Criticize his involvement in government",
+      "Explain why he stopped writing novels"
+    ],
+    "source": "Arada Grade 12 Aptitude Model Exam 2018",
+    "question_number": 26,
+    "answer_key_source": "SAT grade 12 model exam answer key .pdf",
+    "status": "needs review",
+    "issue": "answer_key_missing"
+  },
+  {
+    "subject": "English",
+    "question": "The phrase “used literature as a tool” in paragraph 3 suggests that Haddis Alemayehu viewed writing as",
+    "choices": [
+      "A form of entertainment",
+      "A professional obligation",
+      "A means to influence social thinking",
+      "A way to record personal experiences ARADA SUB CITY EDUCATION OFFICE SAT FOR GRADE 12 MODEL EXAM 2018 e.c"
+    ],
+    "source": "Arada Grade 12 Aptitude Model Exam 2018",
+    "question_number": 27,
+    "answer_key_source": "SAT grade 12 model exam answer key .pdf",
+    "status": "needs review",
+    "issue": "answer_key_missing"
+  },
+  {
+    "subject": "English",
+    "question": "The word “enduring” in the passage emphasizes that Haddis Alemayehu’s influence is",
+    "choices": [
+      "Temporary and limited",
+      "Popular only in the past",
+      "Lasting over a long period",
+      "Important only to scholars"
+    ],
+    "source": "Arada Grade 12 Aptitude Model Exam 2018",
+    "question_number": 28,
+    "answer_key_source": "SAT grade 12 model exam answer key .pdf",
+    "status": "needs review",
+    "issue": "answer_key_missing"
+  },
+  {
+    "subject": "English",
+    "question": "In paragraph 3, the word “profound” most nearly means",
+    "choices": [
+      "Common and ordinary",
+      "Deep and insightful",
+      "Simple and clear",
+      "Traditional and old IV. Language Usage (Question 30-32) Directions: For questions 30-31, choose the letter that hold figurative meaning of the phrase or the idioms; for proverbs, choose the answer that shows the lesson or moral they convey, and then blacken the letter of your choice in the space provided in the answer sheet"
+    ],
+    "source": "Arada Grade 12 Aptitude Model Exam 2018",
+    "question_number": 29,
+    "answer_key_source": "SAT grade 12 model exam answer key .pdf",
+    "status": "needs review",
+    "issue": "answer_key_missing"
+  },
+  {
+    "subject": "English",
+    "question": "When I noticed the small leak in the roof, I repaired it immediately because a stitch in time saves nine",
+    "choices": [
+      "Fixing small problems early prevents bigger problems",
+      "Sewing clothes takes time",
+      "Nine repairs are needed for every stitch",
+      "Procrastination leads to better results"
+    ],
+    "source": "Arada Grade 12 Aptitude Model Exam 2018",
+    "question_number": 30,
+    "answer_key_source": "SAT grade 12 model exam answer key .pdf",
+    "status": "needs review",
+    "issue": "answer_key_missing"
+  },
+  {
+    "subject": "English",
+    "question": "Ravi woke up at 5 a.m. to study for the competitive exam; the early bird catches the worm",
+    "choices": [
+      "Birds are hungriest in the morning",
+      "Success comes to those who act quickly",
+      "Early mornings are unhealthy",
+      "Worms are only available in the morning"
+    ],
+    "source": "Arada Grade 12 Aptitude Model Exam 2018",
+    "question_number": 31,
+    "answer_key_source": "SAT grade 12 model exam answer key .pdf",
+    "status": "needs review",
+    "issue": "answer_key_missing"
+  },
+  {
+    "subject": "English",
+    "question": "A village is facing severe water scarcity during the summer season. Courses of action: I. The villagers should construct rainwater harvesting systems and maintain ponds. II. The government should be petitioned to provide water through tankers only",
+    "choices": [
+      "If only I follows",
+      "If only II follows",
+      "If neither I nor II follows",
+      "If either I or II followsBottom of Form"
+    ],
+    "source": "Arada Grade 12 Aptitude Model Exam 2018",
+    "question_number": 34,
+    "answer_key_source": "SAT grade 12 model exam answer key .pdf",
+    "status": "needs review",
+    "issue": "answer_key_missing"
+  },
+  {
+    "subject": "English",
+    "question": "Hikma burned the midnight oil to finish her science project on time",
+    "choices": [
+      "Worked late into the night",
+      "Lit a candle for inspiration",
+      "Slept early",
+      "Wasted time"
+    ],
+    "source": "Arada Grade 12 Aptitude Model Exam 2018",
+    "question_number": 35,
+    "answer_key_source": "SAT grade 12 model exam answer key .pdf",
+    "status": "needs review",
+    "issue": "answer_key_missing"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The 49th term of the sequence { ( ) } is",
+    "choices": [
+      "1",
+      "1",
+      "0",
+      ""
+    ],
+    "source": "Arada Grade 12 Aptitude Model Exam 2018",
+    "question_number": 36,
+    "answer_key_source": "SAT grade 12 model exam answer key .pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Which one of the following is a term in the sequence ?",
+    "choices": [
+      "156",
+      "158",
+      "160",
+      "162"
+    ],
+    "source": "Arada Grade 12 Aptitude Model Exam 2018",
+    "question_number": 37,
+    "answer_key_source": "SAT grade 12 model exam answer key .pdf",
+    "status": "needs review",
+    "issue": "answer_key_missing"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "On the following number line ↔ the tick marks are equally spaced and their coordinates are shown. Of these coordinates which has the smallest positive value?",
+    "choices": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "source": "Arada Grade 12 Aptitude Model Exam 2018",
+    "question_number": 38,
+    "answer_key_source": "SAT grade 12 model exam answer key .pdf",
+    "status": "needs review",
+    "issue": "answer_key_missing"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Suppose that . Compare the following two quantities, whose information is given as Quantity A Quantity B",
+    "choices": [
+      "Quantity A is greater than Quantity",
+      "",
+      "The two quantities are equal B. Quantity A is less than Quantity B",
+      "The relationship cannot be determined from the information given. ARADA SUB CITY EDUCATION OFFICE SAT FOR GRADE 12 MODEL EXAM 2018 e.c"
+    ],
+    "source": "Arada Grade 12 Aptitude Model Exam 2018",
+    "question_number": 39,
+    "answer_key_source": "SAT grade 12 model exam answer key .pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The data of numbers is given where . Compare the following two quantities? Quantity A Quantity B Median of the data Mode of the data",
+    "choices": [
+      "Quantity A is less than Quantity",
+      "",
+      "Quantity A is equal to Quantity B B. Quantity A is greater than Quantity B",
+      "The relationship cannot be determined"
+    ],
+    "source": "Arada Grade 12 Aptitude Model Exam 2018",
+    "question_number": 40,
+    "answer_key_source": "SAT grade 12 model exam answer key .pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Two six faced dies are thrown together, what is the probability that a total of 10 is thrown?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Grade 12 Aptitude Model Exam 2018",
+    "question_number": 41,
+    "answer_key_source": "SAT grade 12 model exam answer key .pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "A bag contains 3 red, 4 white and 1 black balls. If two balls are drawn at random, what is the probability that no red ball is drawn?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Grade 12 Aptitude Model Exam 2018",
+    "question_number": 42,
+    "answer_key_source": "SAT grade 12 model exam answer key .pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "By how much is larger than 20 percent of 2?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Grade 12 Aptitude Model Exam 2018",
+    "question_number": 46,
+    "answer_key_source": "SAT grade 12 model exam answer key .pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The simplified form of is",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Grade 12 Aptitude Model Exam 2018",
+    "question_number": 49,
+    "answer_key_source": "SAT grade 12 model exam answer key .pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "Equation of the line that passes through the point ( ) and is perpendicular to the line is",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "source": "Arada Grade 12 Aptitude Model Exam 2018",
+    "question_number": 51,
+    "answer_key_source": "SAT grade 12 model exam answer key .pdf",
+    "status": "needs review",
+    "issue": "incomplete_text"
+  },
+  {
+    "subject": "Mathematics",
+    "question": "The sum of the ages of the mother and her daughter is equal to sixty years. Six years ago the age of the mother was five times the age of the daughter. What will be the age of the daughter five years from now?",
+    "choices": [
+      "19",
+      "18",
+      "17",
+      "16"
+    ],
+    "source": "Arada Grade 12 Aptitude Model Exam 2018",
+    "question_number": 53,
+    "answer_key_source": "SAT grade 12 model exam answer key .pdf",
+    "status": "needs review",
+    "issue": "answer_key_missing"
+  },
+  {
+    "subject": "Geography",
+    "question": "The point shown as “E\" on the map is an example of",
+    "choices": [
+      "Spur",
+      "Waterfall",
+      "Tributary",
+      "Confluence"
+    ],
+    "source": "Addis Ababa Grade 12 Geography Model Exam 2018",
+    "status": "needs review",
+    "issue": "answer_key_conflict",
+    "answer_candidates": [
+      {
+        "source": "Oromia Geography Model 2017",
+        "answer": "Confluence"
+      },
+      {
+        "source": "Addis Ababa Grade 12 Geography Model Exam 2018",
+        "answer": "Waterfall"
+      }
+    ]
+  },
+  {
+    "subject": "Geography",
+    "question": "Assess which traditional agro-climatic zone of Ethiopia is mostly represented by the map area?",
+    "choices": [
+      "Wurch",
+      "Dega",
+      "Qolla",
+      "Woina dega"
+    ],
+    "source": "Addis Ababa Grade 12 Geography Model Exam 2018",
+    "status": "needs review",
+    "issue": "answer_key_conflict",
+    "answer_candidates": [
+      {
+        "source": "Oromia Geography Model 2017",
+        "answer": "Dega"
+      },
+      {
+        "source": "Addis Ababa Grade 12 Geography Model Exam 2018",
+        "answer": "Wurch"
+      }
+    ]
+  }
+]

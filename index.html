@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#f4f6f1">
+  <meta name="description" content="Practice for the Ethiopian University Entrance Examination with quizzes, topic review, notes, and a study timer.">
+  <title>EUEE Study Hub</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="#home" aria-label="EUEE Study Hub home"><span class="brand-mark" aria-hidden="true">E</span><span><strong>EUEE</strong><small>STUDY HUB</small></span></a>
+      <nav aria-label="Main navigation">
+        <button class="tab active" type="button" data-page="home"><span aria-hidden="true">⌂</span> Home</button>
+        <button class="tab" type="button" data-page="quiz"><span aria-hidden="true">✎</span> Practice</button>
+        <button class="tab" type="button" data-page="notes"><span aria-hidden="true">▤</span> Notes</button>
+        <button class="tab" type="button" data-page="library"><span aria-hidden="true">⌕</span> Library</button>
+        <button class="tab" type="button" data-page="timer"><span aria-hidden="true">◷</span> Focus</button>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section id="home" class="page" aria-labelledby="home-title">
+      <div class="welcome-banner"><div class="welcome-copy"><span class="eyebrow">YOUR EXAM PREP, IN ONE PLACE</span><h2 id="home-title">Build your confidence.<br><em>One question at a time.</em></h2><p>Practice for the Ethiopian University Entrance Examination with focused quizzes, personal notes, and better study habits.</p><span class="bank-pill"><b id="question-count">2,153</b> answer-keyed questions</span><button type="button" class="hero-cta" data-page="quiz">Start practicing <span aria-hidden="true">→</span></button></div><div class="welcome-art" aria-hidden="true"><div class="orbit orbit-one"></div><div class="orbit orbit-two"></div><div class="book-illustration"><span>✦</span><b>LEARN<br>GROW<br>SUCCEED</b></div><span class="spark spark-one">✦</span><span class="spark spark-two">✧</span></div></div><div class="section-title"><div><span class="eyebrow">YOUR JOURNEY</span><h2>Progress overview</h2></div><span class="status-pill"><i></i> Saved on this device</span></div>
+      <div class="stats" aria-label="Quiz summary">
+        <div class="stat"><span class="stat-icon">▣</span><span id="stat-quizzes">0</span><small>Quizzes taken</small></div>
+        <div class="stat"><span class="stat-icon">↗</span><span id="stat-best">0%</span><small>Best score</small></div>
+        <div class="stat"><span class="stat-icon">◉</span><span id="stat-avg">0%</span><small>Average</small></div>
+      </div>
+
+      <div class="dashboard-grid">
+      <section class="dashboard-card subject-card"><div class="card-heading"><div><span class="eyebrow">KEEP TRACK</span><h3>Accuracy by subject</h3></div><span class="card-symbol">◫</span></div><div id="subject-bars"></div></section>
+
+      <section class="dashboard-card topics-card"><div class="section-heading">
+        <h3>Topics to revisit</h3>
+        <button id="weak-btn" type="button" class="secondary">Practice weak topics</button>
+      </div>
+      <p id="weak-msg" class="hint" aria-live="polite"></p>
+      <div id="topic-list"></div></section>
+
+      <section class="dashboard-card recent-card"><div class="card-heading"><div><span class="eyebrow">YOUR LATEST SESSIONS</span><h3>Recent quizzes</h3></div><span class="card-symbol">◷</span></div><div id="recent-list"></div></section>
+      </div>
+      <div class="reset-row"><span>Your study history stays private in this browser.</span><button id="reset-data" type="button" class="text-button">Reset progress</button></div>
+    </section>
+
+    <section id="quiz" class="page" aria-labelledby="quiz-title" hidden>
+      <div id="quiz-setup">
+        <span class="eyebrow">PICK YOUR NEXT CHALLENGE</span><h2 id="quiz-title">Build a quiz</h2><p class="page-intro">Choose a subject or topic and set the pace that works for you.</p>
+        <label for="subject-select">Subject
+          <select id="subject-select"></select>
+        </label>
+        <label for="topic-select">Topic
+          <select id="topic-select"></select>
+        </label>
+        <label for="source-select">Question source
+          <select id="source-select"></select>
+        </label>
+        <label for="count-select">Number of questions
+          <select id="count-select">
+            <option value="10">10</option>
+            <option value="20">20</option>
+            <option value="40">40</option>
+            <option value="all">All that match</option>
+          </select>
+        </label>
+        <div class="mode-row" role="radiogroup" aria-label="Quiz mode">
+          <label class="radio"><input type="radio" name="mode" value="practice" checked><span><b>Practice</b><small>Get immediate answer-key feedback and reference links after each answer.</small></span></label>
+          <label class="radio"><input type="radio" name="mode" value="exam"><span><b>Exam</b><small>Answer all questions, then review your score.</small></span></label>
+        </div>
+        <div id="minutes-row" hidden>
+          <label for="minutes-input">Time limit (minutes)
+            <input id="minutes-input" type="number" min="1" max="180" value="10">
+          </label>
+        </div>
+        <p id="pool-info" class="hint" aria-live="polite"></p>
+        <p class="hint">Answer keys are linked for imported papers. 114 unclear items are excluded from quizzes and listed in question_review.json: 92 incomplete extractions, 20 without a clearly matched key, and 2 conflicting keys.</p>
+        <button id="start-btn" type="button" class="wide">Start quiz</button>
+      </div>
+
+      <div id="quiz-run" hidden>
+        <div class="top-row">
+          <span id="progress"></span>
+          <span id="exam-timer" hidden aria-live="polite"></span>
+        </div>
+        <div class="tags">
+          <span id="subject-tag" class="tag"></span>
+          <span id="topic-tag" class="tag"></span>
+          <span id="source-tag" class="tag source"></span>
+        </div>
+        <p id="question"></p>
+        <div id="answers" aria-label="Answer choices"></div>
+        <p id="result" aria-live="polite"></p>
+        <div id="explain" class="explain" hidden></div>
+        <div class="nav-row">
+          <button id="prev" type="button" class="secondary" hidden>Previous</button>
+          <button id="next" type="button" hidden>Next</button>
+          <button id="finish-btn" type="button" class="secondary">End quiz</button>
+        </div>
+      </div>
+
+      <div id="quiz-end" hidden>
+        <h2 id="end-title">Quiz finished</h2>
+        <p id="final-score"></p>
+        <p id="end-note" class="hint"></p>
+        <div id="review"></div>
+        <div class="nav-row">
+          <button id="retry-btn" type="button" hidden>Retry missed questions</button>
+          <button id="again-btn" type="button" class="secondary">Build another quiz</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="notes" class="page" aria-labelledby="notes-title" hidden>
+      <span class="eyebrow">REMEMBER WHAT MATTERS</span><h2 id="notes-title">My notes</h2><p class="page-intro">Collect formulas, reminders, and ideas as you study.</p>
+      <div class="note-form">
+        <label for="note-title">Title
+          <input id="note-title" type="text" maxlength="100" placeholder="e.g. Photosynthesis review">
+        </label>
+        <label for="note-subject">Subject
+          <select id="note-subject"></select>
+        </label>
+        <label for="note-body">Note
+          <textarea id="note-body" rows="5" placeholder="Write a note, formula or reminder..."></textarea>
+        </label>
+        <p id="note-status" class="hint" aria-live="polite"></p>
+        <div class="nav-row">
+          <button id="note-save" type="button">Save note</button>
+          <button id="note-cancel" type="button" class="secondary" hidden>Cancel edit</button>
+        </div>
+      </div>
+      <h3>Find a note</h3>
+      <label for="note-search">Search
+        <input id="note-search" type="search" placeholder="Search titles and notes">
+      </label>
+      <label for="note-filter">Subject filter
+        <select id="note-filter"></select>
+      </label>
+      <div id="note-list"></div>
+    </section>
+    <section id="library" class="page" aria-labelledby="library-title" hidden>
+      <span class="eyebrow">STUDY FROM YOUR BOOKS</span>
+      <h2 id="library-title">Reference library</h2>
+      <p class="page-intro">Open the supplied reference PDFs directly. The exam blueprint section shows how your uploaded Grade 12 Tables of Specification distribute questions; quizzes use those weights when a question can be matched to a blueprint unit.</p>
+      <section class="tos-section" aria-labelledby="tos-title"><div class="section-heading"><div><span class="eyebrow">EXAM BLUEPRINTS</span><h3 id="tos-title">Tables of Specification</h3></div><span class="status-pill">Uploaded Grade 12 plans</span></div><div id="tos-list" class="tos-grid"></div></section>
+      <div class="library-tools">
+        <label for="reference-search">Search references
+          <input id="reference-search" type="search" placeholder="Search a subject, title, unit, or file name">
+        </label>
+        <label for="reference-filter">Subject
+          <select id="reference-filter"></select>
+        </label>
+      </div>
+      <p id="reference-count" class="hint" aria-live="polite"></p>
+      <div id="reference-list" class="reference-grid"></div>
+    </section>
+    <section id="timer" class="page" aria-labelledby="timer-title" hidden>
+      <span class="eyebrow">MAKE SPACE TO FOCUS</span><h2 id="timer-title">Study timer</h2><p class="page-intro">Small, focused sessions make steady progress.</p>
+      <p id="timer-mode">Focus session</p>
+      <div id="timer-display" role="timer" aria-live="off">25:00</div>
+      <div class="timer-buttons">
+        <button id="timer-start" type="button">Start</button>
+        <button id="timer-reset" type="button" class="secondary">Reset</button>
+      </div>
+      <div class="timer-settings">
+        <label for="focus-input">Focus (minutes)
+          <input id="focus-input" type="number" min="1" max="180" value="25">
+        </label>
+        <label for="break-input">Break (minutes)
+          <input id="break-input" type="number" min="1" max="60" value="5">
+        </label>
+      </div>
+      <button id="preset-btn" type="button" class="secondary">Use 25/5 preset</button>
+      <p id="timer-message" class="hint" aria-live="polite"></p>
+      <p id="session-count" class="hint"></p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p class="footer-note">Your progress and notes are saved in this browser.</p>
+    <div class="contact-links" role="group" aria-label="Contact Mr. Simon from Ethiopia">
+      <a href="mailto:Smonmeles222@gmail.com" aria-label="Email Smonmeles222@gmail.com" title="Email Smonmeles222@gmail.com">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"></rect><path d="m4 7 8 6 8-6"></path></svg>
+      </a>
+      <a href="https://t.me/sxmn_12" target="_blank" rel="noopener noreferrer" aria-label="Telegram @sxmn_12" title="Telegram @sxmn_12">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M21.5 3.7 18.3 20c-.2 1.1-.9 1.4-1.8.9l-5-3.7-2.4 2.3c-.3.3-.5.5-1 .5l.4-5.1 9.3-8.4c.4-.4-.1-.6-.6-.2L5.7 13.5.8 12c-1.1-.3-1.1-1 .2-1.5L20.2 3c.9-.3 1.6.2 1.3.7Z"></path></svg>
+      </a>
+      <a href="https://www.tiktok.com/@simon505.16" target="_blank" rel="noopener noreferrer" aria-label="TikTok @simon505.16" title="TikTok @simon505.16">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19.6 7.2a6.2 6.2 0 0 1-4-1.5v8.1a6.1 6.1 0 1 1-5.3-6.1v3.4a2.8 2.8 0 1 0 1.9 2.7V2h3.4c.2 2.2 1.8 4 4 4.3v.9Z"></path></svg>
+      </a>
+      <span class="sr-only">Mr. Simon, Ethiopia.</span>
+    </div>
+  </footer>
+  <script src="questions.js"></script>
+  <script src="references.js"></script>
+  <script src="tos.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
